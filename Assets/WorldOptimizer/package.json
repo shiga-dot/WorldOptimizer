@@ -1,0 +1,21 @@
+{
+    "name": "com.user.worldoptimizer",
+    "version": "1.1.0",
+    "displayName": "World Optimizer",
+    "description": "A comprehensive optimization tool for VRChat worlds. Features include texture/audio compression, mesh combining, and scene analysis.",
+    "unity": "2019.4",
+    "keywords": [
+        "vrchat",
+        "optimization",
+        "tools",
+        "editor"
+    ],
+    "author": {
+        "name": "reo3",
+        "url": "https://example.com"
+    },
+    "vpmDependencies": {
+        "com.vrchat.worlds": "^3.0.0",
+        "com.vrchat.base": "^3.0.0"
+    }
+}
